@@ -1,0 +1,60 @@
+.products{
+    display: inline-block;
+    width: 1450px;
+}
+
+h3{
+    margin-left: 5px;
+    text-align: left;
+}
+
+p{
+    margin-left: 5px;
+}
+
+ .products .iphone img{ 
+    width: 318.64px;
+    height: 210px;
+    display: block;
+}
+
+ .Offers{
+    color: green;
+    margin-left: 5px;
+    
+ }
+ .Before {
+    color: red;
+    text-decoration: line-through;
+    margin-left: 5px; 
+ }
+
+.Favorite{
+    color: blue;
+    margin-left: 5px;
+    margin-right: 5px;
+    color: aliceblue;
+}
+
+.shop{
+  color: aliceblue;
+}
+
+.iphone{
+    float: left;
+    margin: 5px;
+    border-style: solid;
+}
+button{
+    margin:15px 5px;
+    background-color: rgb(65, 106, 208);
+    padding: 15px 30px;
+    font-size: 25px;
+    color: rgb(255, 255, 255);
+}
+
+i{
+    font-size: 20px;
+}
+
+
